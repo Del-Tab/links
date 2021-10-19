@@ -14,3 +14,16 @@ https://www.tiktok.com/@dusucredansmoncafe
 https://www.instagram.com/dusucredansmoncafe
 ## mastodon (peu actif en ce moment)
 https://mamot.fr/@DuSucreDansMonCafe
+
+
+#link for myselfs
+## music projects
+### synth
+https://github.com/dzlonline/the_synth
+https://github.com/DLehenbauer/arduino-midi-sound-module
+https://github.com/bitluni/arduinoMIDISynth
+
+## security projects
+https://github.com/Ganapati/RsaCtfTool
+https://github.com/khanhnnvn/CEHv10
+
