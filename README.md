@@ -18,7 +18,7 @@ https://www.instagram.com/dusucredansmoncafe
 https://mamot.fr/@DuSucreDansMonCafe
 
 
-# Link for myself
+# Link for myself (I'm not owning them, I'm keeping them as an online bookmark repository)
 ## music projects
 ### synth
 https://github.com/dzlonline/the_synth
