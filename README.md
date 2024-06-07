@@ -12,7 +12,7 @@ https://www.linkedin.com/in/alban-daumer-0075933b/
 about electronic projects, music, food, cybersecurity, education and fun
 ## tiktok
 https://www.tiktok.com/@dusucredansmoncafe
-## instagram
+## instagram (inactif depuis décembre 2023)
 https://www.instagram.com/dusucredansmoncafe
 ## mastodon (peu actif en ce moment)
 https://mamot.fr/@DuSucreDansMonCafe
